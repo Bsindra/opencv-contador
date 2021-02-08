@@ -129,7 +129,7 @@ while (cv2.waitKey(1) < 0):
                 if objeto == 'car' or 'truck':
                     carros += 1
                     counter = True
-                if objeto == 'motorcycle':
+                if objeto == 'motorbike':
                     motos += 1
                     counter = True
     
